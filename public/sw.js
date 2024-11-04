@@ -1,0 +1,1 @@
+// Service Worker file removed since it's not supported in WebContainer
